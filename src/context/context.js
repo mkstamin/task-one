@@ -25,5 +25,3 @@ const AppProvider = ({ children }) => {
 };
 
 export { AppContext, AppProvider };
-// eslint-disable-next-line prettier/prettier
-
